@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="240" src="https://i.imgur.com/0ZCFQnD.gif"  />
-</div>
-
 ###
 
 <h1 align="left">¡Hola!👋 Bienvenido/a a mi perfil.</h1>
