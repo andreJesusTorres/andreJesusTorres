@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📖 Terminando la carrera de Técnico Superior en Desarrollo de Software.<br>🏆 Cuento con 2 premios en EGG e INCuyo.<br>👨‍🏫 Doy clases particulares de programación.<br>🌎 Soy de Argentina, Mendoza.<br><br>Soy un desarrollador que aún no cuenta con experiencia y que en cada proyecto que desarrollo, pongo todo de mí, conocimiento, prolijidad y detalle.<br>Sí te interesa seguír conociendome, podes continuar viendo mis redes.</p>
+<p align="left">📖 Egresado como Técnico Superior en Desarrollo de Software.<br>🏆 Cuento con 2 premios en EGG e INCuyo.<br>👨‍🏫 Doy clases particulares de programación.<br>🌎 Soy de Argentina, Mendoza.<br><br>Soy un desarrollador que aún no cuenta con experiencia y que en cada proyecto que desarrollo, pongo todo de mí, conocimiento, prolijidad y detalle.<br>Sí te interesa seguír conociendome, podes continuar viendo mis redes.</p>
 
 ###
 
