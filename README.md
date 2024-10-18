@@ -6,4 +6,4 @@ Soy **André Torres**, un desarrollador de software con experiencia en la creaci
 ## Conéctate conmigo
 
 - **[LinkedIn](https://www.linkedin.com/in/andrétorres)**
-- **Correo:** andre.torres@outlook.com.ar
+- **Correo:** andrejesust@icloud.com
