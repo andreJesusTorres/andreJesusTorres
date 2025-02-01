@@ -1,3 +1,4 @@
+![Banner](https://imgur.com/N93ewGt)
 # Bienvenido a mi perfil de GitHub
 
 Soy **André Torres**, un desarrollador de software con experiencia en la creación de soluciones tecnológicas efectivas. Me apasiona convertir ideas en aplicaciones funcionales y capacitar a futuros talentos en el desarrollo de software.
